@@ -1,1 +1,1 @@
-#  https://gamessss.github.io
+#  https://gamessss.com
