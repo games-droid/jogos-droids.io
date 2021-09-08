@@ -1,4 +1,9 @@
-body {
-    background-image: url("https://i0.wp.com/gamelogia.com.br/wp-content/uploads/2016/11/gamer.jpg?resize=1280%2C640&ssl=1");
-    background-color: #000000;
-   }
+#imgpos {
+	position: absolute;
+	left: 500%;
+	top: 500%
+	} 
+	body {
+		background-image: url("https://i0.wp.com/gamelogia.com.br/wp-content/uploads/2016/11/gamer.jpg?resize=1280%2C640&ssl=1");
+		background-color: #000000;
+	   }
